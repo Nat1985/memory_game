@@ -25,7 +25,6 @@ function Card({ index, front, handleCheckCards, isShow, destroyedCards, isChecki
                     <img src={isShow ? image : Back} />
                 </div>
             }
-
         </div>
 
     )
